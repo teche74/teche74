@@ -15,7 +15,13 @@
 
 - 📝 I mostly put my stuffs and resources on [https://github.com/teche74](https://github.com/teche74)
 
-- 💬 Ask me about ** !C   !CPP    !Data Science    !Machine Learning   !Frontend Development    !R Programming**
+- 💬 Ask me about
+       **C**,
+       **CPP**,
+       **Data Science**,
+       **Machine Learning**,
+       **Frontend Development**,
+       **R Programming**
 
 - 📫 How to reach me **ujjwalbisht55@gmail.com**
 
