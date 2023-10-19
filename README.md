@@ -81,8 +81,7 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-**[Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj?si=a52e48765d0d45b5)** - [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O?si=E92xTtFXSJuucG7HDN9O4w)
-
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31lx4jv3jp2wfurwv62ynv5f7wyq)
+
 
 </details>
