@@ -20,9 +20,14 @@
 
 <br/> 
 
-<a href="[https://github.com/drkostas](https://github.com/teche74)">
+<!--
+<a href="(https://github.com/teche74)">
     <img src="https://github-stats-alpha.vercel.app/api?username=teche74&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+-->
+
+<img src="https://imgs.search.brave.com/yt-lMCWw06W1S71eGi_eVH64N_SjiNe3yT5kKzBqX44/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MnV5RU5SbWlVdDBB/QUFBTS9jb2Rpbmcu/Z2lm.gif" alt="Coding"  height= 400 width=500>
+
 
 </p>
 
