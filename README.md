@@ -4,10 +4,10 @@
 </a>
 <br/>
 
-<a href="https://none">
+<a href="">
     <img src="https://img.shields.io/badge/Website-Bujj.io-red?style=flat-square">
 </a>  
-<a href="https://gkos.tech/Resume.pdf">
+<a href="">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="www.linkedin.com/in/ujjwal-bisht-3a09b0240">
@@ -39,21 +39,27 @@
 
 * 💻 Exploring NLP topics - **Information Retrival**, **Topic Modelling** and **POS Tagging**.
 
-### 🖥️ Self Projects
+### 🖥️ Projects
 <table>
 <tr><th>Machine Learning </th><th>Data Science</th></tr>
 <tr><td>
 
 |Title | Stars | Libraries |
 |--|--|--|
-
-| [Stock Prediction](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=pink"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Housing Buenos Aries](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Earthquake Prediction Nepal](https://github.com/teche74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Air_Quality_Index_Prediction](https://github.com/teche74/Air_Quality_Index_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Air_Quality_Index_Prediction?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Stock Prediction](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
 
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Wine Quality Prediction](https://github.com/teche74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)  |
+| [Poland Bankrupty](https://github.com/teche74/Poland_Bankrupty) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Poland_Bankrupty?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [USA Customer Segmentation](https://github.com/teche74/Customer_Segmentation_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Quora QuestionPair EDA](https://github.com/teche74/Quora_Dataset_EDA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Youtube Trend Analysis](https://github.com/teche74/YT_TrendingVideos_Analysis_Using_R) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/YT_TrendingVideos_Analysis_Using_R?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Wine Quality Analysis](https://github.com/teche74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
 
 </td></tr> </table>
 
@@ -64,11 +70,24 @@
 |Title | Stars | Technologies|
 |--|--|--|
 
-
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
+
+</td></tr> </table>
+
+### 🖥️ Roadmaps and Resources
+<table>
+<tr><th>Tech Maps </th><th>Resources</th></tr>
+<tr><td>
+
+|Language |  stars | Libraries |  
+|--|--|--|
+| [JAVASCRIPT](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Javascript](https://img.shields.io/badge/javascript-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=javascript&logoColor=red&labelColor=black&color=red)|
+| [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
+
+
 
 </td></tr> </table>
 
