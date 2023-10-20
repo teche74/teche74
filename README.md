@@ -44,7 +44,7 @@
 <tr><th>Machine Learning </th><th>Data Science</th></tr>
 <tr><td>
 
-|Title | Stars | Libraries |
+|Title | Stars | Technologies |
 |--|--|--|
 | [Housing Buenos Aries](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
 | [Earthquake Prediction Nepal](https://github.com/teche74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
@@ -82,12 +82,19 @@
 <tr><th>Tech Maps </th><th>Resources</th></tr>
 <tr><td>
 
-|Language |  stars | Libraries |  
+|Language |  stars | Stack |  
 |--|--|--|
 | [JAVASCRIPT](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Javascript](https://img.shields.io/badge/javascript-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=javascript&logoColor=red&labelColor=black&color=red)|
 | [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
+| [R LANGUAGE](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
+| [SQL](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
 
+</td><td>
 
+|Books  | Language|
+|--|--|
+| [Data Structure and Algorithm in C](https://github.com/teche74/My_Tech_Library/blob/main/Book_Data_Structure_And_Algorithms_In_C.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
+| [Practical C Programming](https://github.com/teche74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
 
 </td></tr> </table>
 
