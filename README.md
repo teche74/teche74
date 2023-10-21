@@ -74,7 +74,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-
+| [Chat_with_Your_Own_Books ](https://github.com/teche74/Chat_with_Your_Own_Books) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Chat_with_Your_Own_Books?style=flat-circle&labelColor=red"/> |![Langchain](https://github.com/teche74/teche74/assets/129526047/2ab41d79-3658-48c7-8bf1-7096cfa1d066) ![Streamlit](https://github.com/teche74/teche74/assets/129526047/6ff725a1-3b0a-4bb0-ab8a-93ab62589bf1)  ![Qdrant](https://github.com/teche74/teche74/assets/129526047/3515b954-cacf-4d08-8cde-0f90befae38e) |
+ 
 </td></tr> </table>
 
 ### 🖥️ Roadmaps and Resources
