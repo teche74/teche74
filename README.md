@@ -78,7 +78,7 @@
  
 </td></tr> </table>
 
-### 🖥️ Roadmaps and Resources
+### 📌 Roadmaps and Resources
 <table>
 <tr><th>Tech Maps </th><th>Resources</th></tr>
 <tr><td>
@@ -97,6 +97,7 @@
 | [Practical C Programming](https://github.com/teche74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
 
 </td></tr> </table>
+
 
 <details>
 <summary>📈 Stats</summary>
