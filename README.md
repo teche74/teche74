@@ -106,25 +106,10 @@
 ## My Github Stats
 
 
-<div align="left">
-  <a href="https://github.com/teche74"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teche74&card_width=1200&theme=transparent" /> </a> 
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teche74&theme=dracula) 
 
-<div>
-    <a href="https://github.com/teche74"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=teche74&show_icons=true&card_width=338&theme=transparent"/> 
-    </a>
-      <a href="https://github.com/teche74">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=teche74&card_width=338&theme=transparent" />
-      </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/teche74">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teche74&card_width=338&layout=compact&theme=transparent" />
-  </a>
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teche74&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teche74&theme=dracula)
 
 <br>
 Currently Coding & Listening to:
