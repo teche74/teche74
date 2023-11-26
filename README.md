@@ -86,7 +86,7 @@
 |Language |  stars | Stack |  
 |--|--|--|
 | [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
-| [R LANGUAGE](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
+| [R LANGUAGE](https://github.com/teche74/R_language_Guide) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
 | [SQL](https://github.com/teche74/SQL_Playground) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/SQL_Playground?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
 
 </td><td>
