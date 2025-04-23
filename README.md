@@ -31,6 +31,11 @@
 
 ---
 
+
+### Leetcode 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ujjwalbisht55?theme=dark&font=Bona%20Nova&ext=activity&ext=contest)
+
 ### 🧩 Featured Projects
 
 #### 💡 Machine Learning & Data Science
