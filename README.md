@@ -6,7 +6,7 @@
   <a href="https://portfolio-ujjwal-bishts-projects-f2dbfaf4.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Bujj.io-red?style=flat-square&logo=vercel&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://github.com/user-attachments/files/19872772/ujjwalbisht.3.pdf">
     <img src="https://img.shields.io/badge/CV-Resume-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ujjwal-bisht-3a09b0240">
@@ -18,6 +18,7 @@
   <br/><br/>
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="500"/>
 </p>
+
 
 ---
 
@@ -113,4 +114,9 @@
 </table>
 
 ---
+
+## Resume
+
+
+[📄 View My Resume](https://github.com/user-attachments/files/19872772/ujjwalbisht.3.pdf)
 
