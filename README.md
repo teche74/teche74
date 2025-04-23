@@ -115,8 +115,4 @@
 
 ---
 
-## Resume
-
-
-[📄 View My Resume](https://github.com/user-attachments/files/19872772/ujjwalbisht.3.pdf)
 
