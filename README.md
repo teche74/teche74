@@ -1,121 +1,111 @@
 <p align="center">
-<a href="https://github.com/teche74">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=700&height=80&lines=Ujjwal+Bisht;Tech +Enthusiast+%7C+Grad+Student+%7C+Computer+Engineering+Understudies;Machine+Learning+%7C+Data+Science+%7C+Web+Devlopment" alt="Typing SVG" />
-</a>
-<br/>
-
-<a href="">
-    <img src="https://img.shields.io/badge/Website-Bujj.io-red?style=flat-square">
-</a>  
-<a href="">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="www.linkedin.com/in/ujjwal-bisht-3a09b0240">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:ujjwalbisht55@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-</a>
-
-<br/> 
-
-<!--
-<a href="(https://github.com/teche74)">
-    <img src="https://github-stats-alpha.vercel.app/api?username=teche74&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
--->
-
-<img src="https://imgs.search.brave.com/yt-lMCWw06W1S71eGi_eVH64N_SjiNe3yT5kKzBqX44/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MnV5RU5SbWlVdDBB/QUFBTS9jb2Rpbmcu/Z2lm.gif" alt="Coding"  height= 400 width=500>
-
-
+  <a href="https://github.com/teche74">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&center=true&multiline=true&width=800&height=80&lines=Ujjwal+Bisht+-+Data+Engineer+%7C+Distributed+Systems+Enthusiast;Computer+Engineering+Student+%7C+Tech+Explorer+%7C+Code+Artist;From+Machine+Learning+to+Data+Engineering+with+Passion+%26+Purpose" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://portfolio-ujjwal-bishts-projects-f2dbfaf4.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Bujj.io-red?style=flat-square&logo=vercel&logoColor=white">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/CV-Resume-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ujjwal-bisht-3a09b0240">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:ujjwalbisht55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <br/><br/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="500"/>
 </p>
 
-* 📖 Pursuing Graduation in Computer Science & Engineering @ [Graphic Era Hill University](https://www.gehu.ac.in/). 
+---
 
-* 🎓 Getting Experience in field of **Data Science**, **Maschine Learning**, and **Databases**.
+### 👨‍💻 About Me
 
-* 💡 Open to collaborating on projects and innovative ideas.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering @ [Graphic Era Hill University](https://www.gehu.ac.in/)
+- 🚀 Passionate about **Data Engineering**, **Distributed Systems**, and **Scalable Backend Architectures**
+- 🛠️ Hands-on experience with tools like Kafka, Spark, Airflow, Cassandra, Hadoop, and cloud platforms
+- 🧠 Enthusiast in **Machine Learning**, **Data Science**, and **Information Retrieval**
+- 🤝 Open for collaborations, hackathons, side projects & coffee chats!
 
-* 💻 Exploring NLP topics - **Information Retrival**, **Topic Modelling** and **POS Tagging**.
+---
 
-### 🖥️ Projects
-<table>
-<tr><th>Machine Learning </th><th>Data Science</th></tr>
-<tr><td>
+### 🧩 Featured Projects
 
-|Title | Stars | Technologies |
-|--|--|--|
-| [Housing Buenos Aries](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Earthquake Prediction Nepal](https://github.com/teche74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Air_Quality_Index_Prediction](https://github.com/teche74/Air_Quality_Index_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Air_Quality_Index_Prediction?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Stock Prediction](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+#### 💡 Machine Learning & Data Science
 
-</td><td>
+| Project | Stars | Tech Stack |
+|--------|-------|------------|
+| [🏠 Housing Buenos Aires](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | ![Stars](https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-square) | Python, Pandas, Scikit-learn |
+| [🌍 Earthquake Prediction (Nepal)](https://github.com/teche74/Earthquake_Prediction_Nepal) | ![Stars](https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-square) | Python, Logistic Regression, Decision Trees |
+| [🌫️ AQI Prediction](https://github.com/teche74/Air_Quality_Index_Prediction) | ![Stars](https://img.shields.io/github/stars/teche74/Air_Quality_Index_Prediction?style=flat-square) | Python, Time Series Analysis |
+| [📈 Stock Forecasting (ARIMA)](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | ![Stars](https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-square) | R, Forecasting Models |
 
-|Title | Stars | Technologies|
-|--|--|--|
-| [Poland Bankrupty](https://github.com/teche74/Poland_Bankrupty) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Poland_Bankrupty?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [USA Customer Segmentation](https://github.com/teche74/Customer_Segmentation_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Quora QuestionPair EDA](https://github.com/teche74/Quora_Dataset_EDA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Youtube Trend Analysis](https://github.com/teche74/YT_TrendingVideos_Analysis_Using_R) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/YT_TrendingVideos_Analysis_Using_R?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
-| [Wine Quality Analysis](https://github.com/teche74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+#### 🏦 Data Science Analysis
 
-</td></tr> </table>
+| Project | Stars | Tech Stack |
+|--------|-------|------------|
+| [💸 Poland Bankruptcy Study](https://github.com/teche74/Poland_Bankrupty) | ![Stars](https://img.shields.io/github/stars/teche74/Poland_Bankrupty?style=flat-square) | Python, XGBoost |
+| [🧑‍🤝‍🧑 USA Customer Segmentation](https://github.com/teche74/Customer_Segmentation_USA) | ![Stars](https://img.shields.io/github/stars/teche74/Customer_Segmentation_USA?style=flat-square) | Python, K-Means, PCA |
+| [🔍 Quora EDA](https://github.com/teche74/Quora_Dataset_EDA) | ![Stars](https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-square) | Python, EDA |
+| [📹 YouTube Trend Analysis](https://github.com/teche74/YT_TrendingVideos_Analysis_Using_R) | ![Stars](https://img.shields.io/github/stars/teche74/YT_TrendingVideos_Analysis_Using_R?style=flat-square) | R, ggplot2 |
+| [🍷 Wine Quality Prediction](https://github.com/teche74/WhiteWine_Quality_Prediction) | ![Stars](https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-square) | R, Classification |
 
-<table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
-<tr><td>
+#### 🤖 LLMs & Tools
 
-|Title | Stars | Technologies|
-|--|--|--|
+| Project | Stars | Stack |
+|--------|-------|-------|
+| [📚 Chat with Your Own Books](https://github.com/teche74/Chat_with_Your_Own_Books) | ![Stars](https://img.shields.io/github/stars/teche74/Chat_with_Your_Own_Books?style=flat-square) | LangChain, Qdrant, Streamlit |
 
-</td><td>
+---
 
-|Title | Stars | Technologies|
-|--|--|--|
-| [Chat_with_Your_Own_Books ](https://github.com/teche74/Chat_with_Your_Own_Books) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Chat_with_Your_Own_Books?style=flat-circle&labelColor=red"/> |![Langchain](https://github.com/teche74/teche74/assets/129526047/2ab41d79-3658-48c7-8bf1-7096cfa1d066) ![Streamlit](https://github.com/teche74/teche74/assets/129526047/6ff725a1-3b0a-4bb0-ab8a-93ab62589bf1)  ![Qdrant](https://github.com/teche74/teche74/assets/129526047/3515b954-cacf-4d08-8cde-0f90befae38e) |
- 
-</td></tr> </table>
+### 📚 Learning Maps & Resources
 
-### 📌 Roadmaps and Resources
+| Area | Resource |
+|------|----------|
+| Python | [Python Guide](https://github.com/teche74/) |
+| R Language | [R Language Guide](https://github.com/teche74/R_language_Guide) |
+| SQL | [SQL Playground](https://github.com/teche74/SQL_Playground) |
+| Git & GitHub | *Coming Soon...* |
+| Distributed Systems | *WIP: Kafka, Cassandra, CAP Theorem, Zookeeper* |
 
-<table>
-<tr><th>Tech Maps </th><th>Resources</th></tr>
-<tr><td>
+---
 
-|Language |  stars | Stack |  
-|--|--|--|
-| [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
-| [R LANGUAGE](https://github.com/teche74/R_language_Guide) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
-| [SQL](https://github.com/teche74/SQL_Playground) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/SQL_Playground?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
+### 🌱 Currently Exploring
 
-</td><td>
+- Kafka topics, brokers, partitions
+- Data pipelines using Apache Airflow
+- NoSQL databases: Cassandra, DynamoDB
+- Scalable architecture patterns
 
-|Books  | Language|
-|--|--|
-| [Data Structure and Algorithm in C](https://github.com/teche74/My_Tech_Library/blob/main/Book_Data_Structure_And_Algorithms_In_C.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
-| [Practical C Programming](https://github.com/teche74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
-
-</td></tr> </table>
-
+---
 
 <details>
-<summary>📈 Stats</summary>
+<summary>📈 GitHub Stats</summary>
 <br>
-    
-## My Github Stats
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teche74&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teche74&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teche74&theme=dracula)
-
-<br>
-Currently Coding & Listening to:
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31lx4jv3jp2wfurwv62ynv5f7wyq)
-
+![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teche74&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teche74&layout=compact&theme=dracula)
 
 </details>
+
+---
+
+## 🎵 Currently Vibing To
+<table> 
+    <tr> 
+        <td align="center"> 
+            <a href="https://youtu.be/rDZa_JwyZ_4?si=HGvOgYA3aGCCn-x9" target="_blank"> <img src="https://github.com/user-attachments/assets/9dee2de4-07d8-404f-bbf5-06cf94fa024b" width="100"><br/> <b>Mere Wargi </b><br/><sub>Smoke Ride</sub> </a> 
+        </td> 
+        <td align="center"> <a href="https://youtu.be/ubJa33xxwEU?si=FLgq0z-SvHNF7-nF" target="_blank"> <img src="https://github.com/user-attachments/assets/a8338a78-7bc7-4748-8405-dbe5583f91b8" width="100"><br/> <b>48 Rhymes</b><br/><sub>Karan Aujla</sub> </a> 
+        </td> 
+        <td align="center"> <a href="https://youtu.be/ZwdO0NWgsAs?si=q1cppjieu8muT0HD" target="_blank"> <img src="https://github.com/user-attachments/assets/f62b8a2a-0150-4c07-8211-8f530a8cb5f5" width="100"><br/> <b>Case</b><br/><sub>Deep Kalsi</sub> </a> 
+        </td> 
+        <td align="center"> <a href="https://youtu.be/xzy4dtsxxAs?si=EVnbDTH9DJFe0HqH" target="_blank"> <img src="https://github.com/user-attachments/assets/31ccf5a0-f965-4fc2-860c-8a04622e7969" width="100"><br/> <b>AJA</b><br/><sub>Kalera</sub> </a> 
+        </td> 
+    </tr> 
+</table>
+
+---
+
