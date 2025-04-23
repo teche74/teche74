@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/teche74">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&center=true&multiline=true&width=800&height=80&lines=Ujjwal+Bisht+-+Data+Engineer+%7C+Distributed+Systems+Enthusiast;Computer+Engineering+Student+%7C+Tech+Explorer+%7C+Code+Artist;From+Machine+Learning+to+Data+Engineering+with+Passion+%26+Purpose" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&center=true&multiline=true&width=800&height=80&lines=Ujjwal+Bisht+-+Data+Engineer+%7C+Distributed+Systems+Enthusiast;Computer+Engineering+Student+%7C+Tech+Explorer+%7C+Code+Artist;Data+Engineering+with+Passion" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://portfolio-ujjwal-bishts-projects-f2dbfaf4.vercel.app/">
