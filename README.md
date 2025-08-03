@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=100&center=true&multiline=true&width=800&height=80&lines=Ujjwal+Bisht+-+Data+Engineer+%7C+Distributed+Systems+Enthusiast;Computer+Engineering+Student+%7C+Tech+Explorer+%7C+Code+Artist;Data+Engineering+with+Passion" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://portfolio-ujjwal-bishts-projects-f2dbfaf4.vercel.app/">
+  <a href="https://bujj-io.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-Bujj.io-red?style=flat-square&logo=vercel&logoColor=white">
   </a>
-  <a href="https://github.com/user-attachments/files/19872772/ujjwalbisht.3.pdf">
+  <a href="https://github.com/user-attachments/files/21564955/UJJWAL_BISHT_RESUME.1.pdf">
     <img src="https://img.shields.io/badge/CV-Resume-red?style=flat-square&logo=adobe-acrobat-reader&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ujjwal-bisht-3a09b0240">
@@ -21,6 +21,7 @@
 
 
 ---
+
 
 ### 👨‍💻 About Me
 
